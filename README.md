@@ -1,7 +1,8 @@
 # Holo-encoder
 High-speed computer-generated holography (CGH) using autoencoder-based deep neural network
 
-Jiachen Wu, Kexuan Liu, Xiaomeng Sui, and Liangcai Cao, "High-speed computer-generated holography using an autoencoder-based deep neural network," Optics Letters 46, 2908-2911 (2021).
+
+[Jiachen Wu, Kexuan Liu, Xiaomeng Sui, and Liangcai Cao, "High-speed computer-generated holography using an autoencoder-based deep neural network," Optics Letters 46, 2908-2911 (2021).](https://doi.org/10.1364/OL.425485)
 
 http://www.osapublishing.org/ol/abstract.cfm?URI=ol-46-12-2908
 
@@ -10,8 +11,10 @@ Learning-based computer-generated holography (CGH) provides a rapid hologram gen
 
 Before running, please download the following network model to prediction or retraining.   
 
-Pre-training model download: https://cloud.tsinghua.edu.cn/f/884004d1dc88423a8745/?dl=1   
-Untrained model download: https://cloud.tsinghua.edu.cn/f/7847c1b7ad2c4007b9e7/?dl=1   
+Pre-training model download: https://cloud.tsinghua.edu.cn/f/2bb6e38a426c445681da/?dl=1   
+Untrained model download: https://cloud.tsinghua.edu.cn/f/429b874fdf714194bb6f/?dl=1
+
+Recent work: [K. Liu, J. Wu, Z. He, and L. Cao, "4K-DMDNet: diffraction model-driven network for 4K computer-generated holography," Opto-Electronic Advances 6, 220135-220135 (2023).](https://www.oejournal.org/article/doi/10.29026/oea.2023.220135).
 
 Contact:
 lkx20@mails.tsinghua.edu.cn;
