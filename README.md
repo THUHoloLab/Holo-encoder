@@ -7,7 +7,7 @@ High-speed computer-generated holography (CGH) using autoencoder-based deep neur
 Learning-based computer-generated holography (CGH) provides a rapid hologram generation approach for holographic displays. Supervised training requires a large-scale dataset with target images and corresponding holograms. We propose an autoencoder-based neural network (holoencoder) for phase-only hologram generation. Physical diffraction propagation was incorporated into the autoencoder’s decoding part. The holoencoder can automatically learn the latent encodings of phase-only holograms in an unsupervised manner. The proposed holoencoder was able to generate high-fidelity 4K resolution holograms in 0.15 s. The reconstruction results validate the good generalizability of the holoencoder, and the experiments show fewer speckles in the reconstructed image compared with the existing CGH algorithms.
 
 
-Before running, please download the following network model to prediction or retraining.   
+Before running, please download the following network model to prediction or retraining. Matlab version: 2021a.
 
 Pre-training model download: https://cloud.tsinghua.edu.cn/f/2bb6e38a426c445681da/?dl=1   
 Untrained model download: https://cloud.tsinghua.edu.cn/f/429b874fdf714194bb6f/?dl=1
