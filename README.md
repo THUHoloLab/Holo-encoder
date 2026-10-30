@@ -14,5 +14,5 @@ Pre-training model & Untrained model download: https://cloud.tsinghua.edu.cn/d/d
 Recent work: [K. Liu, J. Wu, Z. He, and L. Cao, "4K-DMDNet: diffraction model-driven network for 4K computer-generated holography," Opto-Electronic Advances 6, 220135-220135 (2023).](https://www.oejournal.org/article/doi/10.29026/oea.2023.220135).
 
 Contact:
-lkx20@mails.tsinghua.edu.cn;
+luoyj25@mails.tsinghua.edu.cn;
 clc@tsinghua.edu.cn
