@@ -9,9 +9,10 @@ Learning-based computer-generated holography (CGH) provides a rapid hologram gen
 
 Before running, please download the following network model to prediction or retraining. Matlab version: 2021a.
 
-Pre-training model & Untrained model download: https://cloud.tsinghua.edu.cn/d/d23c6dc522974d5d92bc/
+Recent work:
 
-Recent work: [K. Liu, J. Wu, Z. He, and L. Cao, "4K-DMDNet: diffraction model-driven network for 4K computer-generated holography," Opto-Electronic Advances 6, 220135-220135 (2023).](https://www.oejournal.org/article/doi/10.29026/oea.2023.220135).
+- [K. Liu, J. Wu, Z. He, and L. Cao, "4K-DMDNet: diffraction model-driven network for 4K computer-generated holography," Opto-Electronic Advances 6, 220135 (2023).](https://doi.org/10.29026/oea.2023.220135)
+- [Y. Luo, K. Liu, Z. He, and L. Cao, "WGCNet: wavelet global context network for speckle-free 4K holographic display with high-frequency preservation," Photonics Research 14(7), 2925–2935 (2026).](https://doi.org/10.1364/PRJ.588876)
 
 Contact:
 luoyj25@mails.tsinghua.edu.cn;
