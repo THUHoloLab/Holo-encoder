@@ -6,6 +6,12 @@ High-speed computer-generated holography (CGH) using autoencoder-based deep neur
 
 Learning-based computer-generated holography (CGH) provides a rapid hologram generation approach for holographic displays. Supervised training requires a large-scale dataset with target images and corresponding holograms. We propose an autoencoder-based neural network (holoencoder) for phase-only hologram generation. Physical diffraction propagation was incorporated into the autoencoder’s decoding part. The holoencoder can automatically learn the latent encodings of phase-only holograms in an unsupervised manner. The proposed holoencoder was able to generate high-fidelity 4K resolution holograms in 0.15 s. The reconstruction results validate the good generalizability of the holoencoder, and the experiments show fewer speckles in the reconstructed image compared with the existing CGH algorithms.
 
+## User guide
+
+[Download the bilingual user guide (Chinese and English, PDF)](https://github.com/THUHoloLab/Holo-encoder/raw/refs/heads/main/Holo-encoder_User_Guide_Bilingual.pdf)
+
+The guide covers MATLAB setup, prediction, untrained network generation, training, and common issues.
+
 DIV2K dataset: [Official website](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
 
 - Training images: [DIV2K_train_HR.zip](https://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_train_HR.zip)
